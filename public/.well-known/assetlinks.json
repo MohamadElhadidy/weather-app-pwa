@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "elhadidy.weather_app",
+                     "sha256_cert_fingerprints": ["D8:53:49:2F:62:98:E2:30:1A:56:75:37:F8:EE:B9:BF:5A:86:04:1D:13:D1:E5:95:53:2F:DD:41:2A:04:8F:5D"] }
+      }
+]
